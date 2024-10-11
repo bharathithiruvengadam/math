@@ -9,6 +9,11 @@ Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Inst
 
 My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
 
+### Awards & Achievements
+- Dec 2019 - Cleared **UGC-NET (JRF)** with AIR 153 in joint CSIR-UGC NET.  
+- Dec 2019 - Cleared **TIFR written exam**.
+- Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
+
 ### Teaching Experience 
 - **MA1021**- Multivariable Calculus (B Tech), Mar-June 2022, Mar-June 2023, _Indian Institute of Technology Palakkad_.
 - **MA1011**- Linear Algebra and Series (B Tech), Oct 2022-Feb 2023, _Indian Institute of Technology Palakkad_.
