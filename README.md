@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="bharathit.math@gmail.com">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <link rel="gmail" type="image/png" href="bharathit.math@gmail.com">
 </p>
 
 <p align="center">
