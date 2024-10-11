@@ -1,6 +1,5 @@
-# Hi... I'm Bharathi Thiruvengadam 
+# I'm Bharathi Thiruvengadam 
 
-## Welcome to my Homepage! 
 
 ### Bio
 I **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram district-604201. 
