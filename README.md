@@ -9,10 +9,10 @@
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
- 
+ </a>
    <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-
+</a>
   <a href="https://orcid.org/0009-0007-6083-3185">
     <img src="https://skillicons.dev/icons?i=orchid" />
   </a>
