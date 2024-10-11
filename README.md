@@ -8,9 +8,10 @@ Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Inst
 
 My broad research areas are ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS. 
 
-### Teaching 
-MA1021- Multivariable Calculus (B Tech), Mar-June 2022, Mar-June 2023.
-MA1011- Linear Algebra and Series (B Tech), Oct 2022-Feb 2023. 
-MA2020- Differential Equations (B Tech), Aug-Dec 2023. 
-MA5010- Complex Analysis (MSc), Jan- Apr 2024. 
-MA5001- Linear Algebra (MSc, MCaM, OE - B Tech), Since Aug 2024. 
+### Teaching Experience 
+- MA1021- Multivariable Calculus (B Tech), Mar-June 2022, Mar-June 2023, _Indian Institute of Technology Palakkad_.
+- MA1011- Linear Algebra and Series (B Tech), Oct 2022-Feb 2023, _Indian Institute of Technology Palakkad_.
+- MA1021- Multivariable Calculus (B Tech), Mar-June 2023, _Indian Institute of Technology Palakkad_.
+- MA2020- Differential Equations (B Tech), Aug-Dec 2023, _Indian Institute of Technology Palakkad_. 
+- MA5010- Complex Analysis (MSc), Jan- Apr 2024, _Indian Institute of Technology Palakkad_. 
+- MA5001- Linear Algebra (MSc, MCaM, OE - B Tech), Since Aug 2024, _Indian Institute of Technology Palakkad_. 
