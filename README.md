@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="bharathit.math@gmail.com">
-    <img src="https://mail.google.com/icons?i=gmail" />
+    <img src="https://mail.google.com/mail/icons?i=gmail" />
   </a>
 </p>
 
