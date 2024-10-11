@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- [![My Skills](https://mail.google.com/icons?i=gmail)](bharathit.math@gmail.com)
+ [![My Skills](https://mail.google.com/icons?i=gmail&theme=light)](bharathit.math@gmail.com)
 </p>
 
 ## Bio
