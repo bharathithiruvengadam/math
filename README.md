@@ -1,5 +1,5 @@
 <p align="center">
- <img src="pho.png" alt="mypho" width="200"/>
+ <img src="pho.png" alt="mypho" width="250"/>
  </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="bharathit.math@gmail.com">
-    <img src="icons?i=gmail" />
+    <img src=gmail />
   </a>
 </p>
 
