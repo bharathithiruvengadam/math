@@ -5,11 +5,7 @@
 <p align="center">
  Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
 </p>
-
-<p align="center">
-  <link rel="gmail" type="image/png" href="bharathit.math@gmail.com">
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](bharathit.math@gmail.com)
 <p align="center">
   <a href="bharathit.math@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
