@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-   <a href="bharathit.math@gmail.com">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0DTx-YqJdsy-ox5z7lsLn2&ust=1728750489621000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNCzi9TfhokDFQAAAAAdAAAAABAE" />
+  <a href="bharathit.math@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
