@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="bharathit.math@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new/bharathit.math@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
  
    <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
