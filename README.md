@@ -1,5 +1,5 @@
 <p align="center">
- <img src="pho.png" alt="mypho" width="350"/>
+ <img src="pho.png" alt="mypho" width="400"/>
  </p>
 
 <p align="center">
