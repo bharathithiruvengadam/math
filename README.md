@@ -1,4 +1,4 @@
-![Photo](pho.png)
+<img src="pho.png" alt="mypho" width="200"/>
 
 <p align="center">
  Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="bharathit.math@gmail.com">
-    <img src="https://mail.google.com/mail/icons?i=gmail" />
+    <img src="icons?i=gmail" />
   </a>
 </p>
 
