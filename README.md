@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
- [![My Skills](https://mail.google.com/icons?i=gmail&theme=light)](bharathit.math@gmail.com)
+   <a href="bharathit.math@gmail.com">
+    <img src="https://mail.google.com/icons?i=gmail" />
+  </a>
 </p>
 
 ## Bio
