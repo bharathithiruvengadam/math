@@ -1,19 +1,19 @@
-# I'm Bharathi Thiruvengadam 
+ I'm Bharathi Thiruvengadam 
+![Photo](pho.png)
 
-
-### Bio
+## Bio
 I **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram district-604201. 
 
 Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Institute of Technology Palakkad, under the supervision of  **Dr. Jaikrishnan Janardhanan**. I completed my Master of Science (MSc) in 2019 in the Department of Mathematics at Ramakrishna Mission Vivekananda College (Autonomous), affiliated with the University of Madras, Chennai. Prior to that, I obtained my Bachelor of Science (BSc) in 2017 in the Department of Mathematics at Government Arts College Tiruvannamalai, affiliated with the Thiruvalluvar University, Vellore, Tamilnadu. My school education was completed in 2014 at the Government Higher Secondary School (GHSS), under the State Board of Tamilnadu. 
 
 My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
 
-### Awards & Achievements
+## Awards & Achievements
 - Dec 2019 - Cleared **UGC-NET (JRF)** with AIR 153 in joint CSIR-UGC NET.  
 - Dec 2019 - Cleared **TIFR written exam**.
 - Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
 
-### Teaching Experience 
+## Teaching Experience 
 - **MA1021**- Multivariable Calculus (B Tech), Mar-June 2022, Mar-June 2023, _Indian Institute of Technology Palakkad_.
 - **MA1011**- Linear Algebra and Series (B Tech), Oct 2022-Feb 2023, _Indian Institute of Technology Palakkad_.
 - **MA1021**- Multivariable Calculus (B Tech), Mar-June 2023, _Indian Institute of Technology Palakkad_.
