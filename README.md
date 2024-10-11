@@ -1,4 +1,3 @@
- I'm Bharathi Thiruvengadam 
 ![Photo](pho.png)
 
 ## Bio
