@@ -1,7 +1,11 @@
 ![Photo](pho.png)
 
 <p align="center">
- Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad
+ Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
+</p>
+
+<p align="center">
+ [![My Skills](gmail)](bharathit.math@gmail.com)
 </p>
 
 ## Bio
