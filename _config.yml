@@ -2,7 +2,7 @@ title: Bharathi T
 logo: Bharathipho.jpg
 description: Senior Research Fellow, IIT Palakkad.
 show_downloads: true
-#theme: jekyll-theme-minimal 
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-minimal 
+
 
 
