@@ -1,7 +1,7 @@
 ![Photo](pho.png)
 
 <p align="center">
-\\ **Bharathi Thiruvengadam** \\ Senior Research Fellow \\ Department of Mathematics \\ IIT Palakkad
+ Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad
 </p>
 
 ## Bio
