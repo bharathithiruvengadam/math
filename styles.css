@@ -1,5 +1,5 @@
 body {
-  background-image: Backpho.png;
+  background-image: url('Backpho.png');
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
