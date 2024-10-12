@@ -18,7 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="30" height="30" />
   </a> 
 <a href="https://maps.app.goo.gl/SC1YYwx1edXkGq2n6">
-  <img src="https://en.m.wikipedia.org/wiki/File:Google_Maps_icon_(2015-2020).svg" alt="Location" width="30" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" alt="Location" width="30" height="30" />
 </a>
 </p>
 
