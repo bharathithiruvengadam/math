@@ -6,3 +6,16 @@ github:
   is_project_page: false
 theme: jekyll-theme-cayman
 
+navigation:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about
+  - title: Teaching
+    url: /teaching
+  - title: Research
+    url: /research
+  - title: Events
+    url: /event
+  - title: Activities
+    url: /activity
