@@ -19,9 +19,9 @@
 </p>
 
 ## Bio
-I **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram district-604201. 
+ I **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram district-604201. 
 
-Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Institute of Technology Palakkad, under the supervision of  **Dr. Jaikrishnan Janardhanan**. My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
+ Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Institute of Technology Palakkad, under the supervision of  **Dr. Jaikrishnan Janardhanan**. My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
 
 ## Education 
 - 2017-2019 - **Masters in Science (MSc) in Mathematics**, _Ramakrishna Mission Vivekananda College (Autonomous)_, Aﬃliated to University of Madras, Chennai, India.
