@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
  </a>
    <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
 </a>
   <a href="https://orcid.org/0009-0007-6083-3185">
-    <img src="https://skillicons.dev/icons?i=orchid" />
+    <img src="https://skillicons.dev/icons?i=orchid"  />
   </a> 
   <a href="https://orcid.org/0009-0007-6083-3185">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="30" height="30" />
