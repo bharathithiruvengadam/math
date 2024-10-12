@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" />
 </a> 
  
    <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
