@@ -1,5 +1,5 @@
 <p align="center">
- <img src="pho.png" alt="mypho" width="400"/>
+ <img src="pho.png" alt="mypho" width="380"/>
  </p>
 <p align="center">
  Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
