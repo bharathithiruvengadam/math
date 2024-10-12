@@ -9,8 +9,8 @@ theme: jekyll-theme-cayman
 navigation:
   - title: Home
     url: /
-  - title: About Me
-    url: /about
+  - title: Bio
+    url: /bio
   - title: Teaching
     url: /teaching
   - title: Research
