@@ -16,3 +16,5 @@ plugins:
 sass:
   style: compressed
 
+include:
+  - _includes/styles.css
