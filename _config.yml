@@ -5,16 +5,4 @@ show_downloads: false
 github:
   is_project_page: false
 theme: jekyll-theme-cayman
-markdown: kramdown
 
-# Custom CSS
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme # Ensure the plugin is installed
-
-# Link to the custom stylesheet
-sass:
-  style: compressed
-
-include:
-  - _includes/styles.css
