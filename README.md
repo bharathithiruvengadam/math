@@ -1,11 +1,9 @@
 <p align="center">
  <img src="pho.png" alt="mypho" width="400"/>
  </p>
-
 <p align="center">
  Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
 </p>
-
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
@@ -13,8 +11,8 @@
    <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
 </a>
-  <a href="https://orcid.org/0009-0007-6083-3185">
-    <img src="https://skillicons.dev/icons?i=orchid"  />
+  <a href="https://www.researchgate.net/profile/Bharathi-Thiruvengadam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30" height="30"  />
   </a> 
   <a href="https://orcid.org/0009-0007-6083-3185">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="30" height="30" />
