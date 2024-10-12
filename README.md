@@ -17,7 +17,9 @@
   <a href="https://orcid.org/0009-0007-6083-3185">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="30" height="30" />
   </a> 
-
+<a href="https://maps.app.goo.gl/SC1YYwx1edXkGq2n6">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Location_dot_black.svg" alt="Location" width="30" height="30" />
+</a>
 </p>
 
 ## Bio
