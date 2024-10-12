@@ -21,9 +21,12 @@
 ## Bio
 I **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram district-604201. 
 
-Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Institute of Technology Palakkad, under the supervision of  **Dr. Jaikrishnan Janardhanan**. I completed my Master of Science (MSc) in 2019 in the Department of Mathematics at Ramakrishna Mission Vivekananda College (Autonomous), affiliated with the University of Madras, Chennai. Prior to that, I obtained my Bachelor of Science (BSc) in 2017 in the Department of Mathematics at Government Arts College Tiruvannamalai, affiliated with the Thiruvalluvar University, Vellore, Tamilnadu. My school education was completed in 2014 at the Government Higher Secondary School (GHSS), under the State Board of Tamilnadu. 
+Currently,  I'm pursuing PhD in the Department of Mathematics at the Indian Institute of Technology Palakkad, under the supervision of  **Dr. Jaikrishnan Janardhanan**. My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
 
-My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN SURFACES, and COMPLEX MANIFOLDS**. 
+## Education 
+- 2017-2019 - **Masters in Science (MSc) in Mathematics**, _Ramakrishna Mission Vivekananda College (Autonomous)_, Aﬃliated to University of Madras, Chennai, India.
+- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, _Government Arts College Tiruvannamalai_, Aﬃliated to Thiruvalluvar University, Vellore, India.
+- 2012-2017 - **Higher Secondary Education (+2)**, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India.
 
 ## Awards & Achievements
 - Dec 2019 - Cleared **UGC-NET (JRF)** with AIR 153 in joint CSIR-UGC NET.  
@@ -31,9 +34,9 @@ My broad research areas are **ONE and SEVERAL COMPLEX VARIABLES (SCV), RIEMANN S
 - Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
 
 ## Teaching Experience 
-- **MA1021**- Multivariable Calculus (B Tech), Mar-June 2022, Mar-June 2023, _Indian Institute of Technology Palakkad_.
-- **MA1011**- Linear Algebra and Series (B Tech), Oct 2022-Feb 2023, _Indian Institute of Technology Palakkad_.
-- **MA1021**- Multivariable Calculus (B Tech), Mar-June 2023, _Indian Institute of Technology Palakkad_.
-- **MA2020**- Differential Equations (B Tech), Aug-Dec 2023, _Indian Institute of Technology Palakkad_. 
-- **MA5010**- Complex Analysis (MSc), Jan- Apr 2024, _Indian Institute of Technology Palakkad_. 
-- **MA5001**- Linear Algebra (MSc, MCaM, OE - B Tech), Since Aug 2024, _Indian Institute of Technology Palakkad_. 
+- Mar-June 2022 - Teaching Assistant, **Multivariable Calculus-MA1021** (BTech), _Indian Institute of Technology Palakkad_.
+- Oct 2022-Feb 2023 - Teaching Assistant, **Linear Algebra and Series-MA1011** (B Tech), _Indian Institute of Technology Palakkad_.
+- Mar-June 2023 - Teaching Assistant, **Multivariable Calculus-MA1021** (B Tech), _Indian Institute of Technology Palakkad_.
+- Aug-Dec 2023 - Teaching Assistant, **Differential Equations-MA2020** (B Tech), _Indian Institute of Technology Palakkad_. 
+- Jan- Apr 2024 - Teaching Assistant, **Complex Analysis-MA5010** (MSc), _Indian Institute of Technology Palakkad_. 
+- Since Aug 2024 - Teaching Assistant, **Linear Algebra-MA5001** (MSc, MCaM, OE - B Tech), _Indian Institute of Technology Palakkad_. 
