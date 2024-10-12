@@ -16,7 +16,9 @@
   <a href="https://orcid.org/0009-0007-6083-3185">
     <img src="https://skillicons.dev/icons?i=orchid" />
   </a> 
- [![ORCID iD](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0009-0007-6083-3185)
+  <a href="https://orcid.org/0009-0007-6083-3185">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  </a> 
 
 </p>
 
