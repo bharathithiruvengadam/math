@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=orchid" />
   </a> 
   <a href="https://orcid.org/0009-0007-6083-3185">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="30" height="30" />
   </a> 
 
 </p>
