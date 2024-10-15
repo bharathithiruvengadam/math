@@ -13,12 +13,12 @@ nav ul li {
 nav ul li a {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007acc; /* Button color */
+  background-color: green; /* Button color */
   color: white;
   border-radius: 5px;
   text-decoration: none;
 }
 
 nav ul li a:hover {
-  background-color: #005f99; /* Hover effect */
+  background-color: green; /* Hover effect */
 }
