@@ -14,4 +14,5 @@ sass:
 
 
 # Link to the custom CSS file
-  css: "style.css"
+ assets:
+ css: "style.css"
