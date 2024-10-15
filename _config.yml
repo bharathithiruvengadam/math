@@ -8,6 +8,9 @@ theme: jekyll-theme-cayman
 header_pages:
  - about.md
  - index.md
+ - teaching.md
+ - event.md
+ - activities.md
 
 sass:
   style: compressed
