@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Bharathi's Homepage
 ---
 # Welcome to my homepage! 
 <p align="center">
