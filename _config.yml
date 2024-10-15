@@ -6,15 +6,8 @@ github:
 theme: jekyll-theme-cayman
 
 navigation:
-  - title: Home
-    url: /README
-  - title: Bio
-    url: /bio
-  - title: Teaching
-    url: /teaching
-  - title: Research
-    url: /research
-  - title: Events
-    url: /event
-  - title: Activities
-    url: /activities
+  name_over_title: true
+  strip_par: true
+  sanitize: true
+  h_max: 3
+
