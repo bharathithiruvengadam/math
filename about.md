@@ -3,7 +3,6 @@ layout: default
 title: About
 ---
 # About Me
-
 <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p>
