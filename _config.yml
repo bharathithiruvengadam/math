@@ -7,12 +7,11 @@ theme: jekyll-theme-cayman
 
 header_pages:
  - about.md
- - index.md
+ - home.md
 
 sass:
   style: compressed
 
 
 # Link to the custom CSS file
-assets:
   css: "style.css"
