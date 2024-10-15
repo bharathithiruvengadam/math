@@ -5,9 +5,8 @@ github:
   is_project_page: false
 theme: jekyll-theme-cayman
 
-navigation:
-  name_over_title: true
-  strip_par: true
-  sanitize: true
-  h_max: 3
-
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+  - projects.md
