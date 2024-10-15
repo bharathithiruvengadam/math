@@ -1,15 +1,11 @@
 title: Bharathi's Homepage 
 description: Welcome to My Homepage!!!
-show_downloads: false
-github:
-  is_project_page: false
+
 theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
   - about.md
-  - contact.md
-  - projects.md
 
 sass:
   style: compressed
