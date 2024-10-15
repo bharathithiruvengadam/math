@@ -3,7 +3,7 @@ layout: default
 title: Bharathi's Homepage
 ---
 <p align="center">
-**Hi... I'm Bharathi Thiruvengadam...** 
+Hi... I'm Bharathi Thiruvengadam... 
  </p>
 
 <p align="center">
