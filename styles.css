@@ -1,23 +1,24 @@
+/* Example CSS to turn menu links into buttons */
 nav ul {
   list-style-type: none;
-  margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
+  margin: 0;
 }
 
 nav ul li {
-  float: left;
+  display: inline-block;
+  margin-right: 10px;
 }
 
 nav ul li a {
-  display: block;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007acc; /* Button color */
   color: white;
-  text-align: center;
-  padding: 14px 16px;
+  border-radius: 5px;
   text-decoration: none;
 }
 
 nav ul li a:hover {
-  background-color: #111;
+  background-color: #005f99; /* Hover effect */
 }
