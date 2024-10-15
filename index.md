@@ -8,7 +8,7 @@ Hi... I'm Bharathi Thiruvengadam... <br /> <br /> Welcome to My Homepage!!!
 
 <br />
 <p align="center">
-![Bachpho](images/Backpho.png)
+![Backpho](images/Backpho.png)
  </p>
 <p align="center">
  <img src="images/Backpho.png" alt="Backpho" width="700" height="600"/>
