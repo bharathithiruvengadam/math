@@ -1,5 +1,5 @@
 title: Bharathi's Homepage 
-description: "Success is not a destination, it is a journey"
+description: "Success is not a destination, it is a journey..."
 show_downloads: false
 github:
   is_project_page: false
@@ -12,7 +12,6 @@ header_pages:
 sass:
   style: compressed
 
-markdown: kramdown
 
 # Link to the custom CSS file
 assets:
