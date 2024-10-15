@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
 
 header_pages:
  - about.md
- - home.md
+ - index.md
 
 sass:
   style: compressed
