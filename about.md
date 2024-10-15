@@ -7,7 +7,7 @@ title: About
  <img src="pho.png" alt="mypho" width="380"/>
  </p>
 <p align="center">
- Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> IIT Palakkad 
+ Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
 </p>
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
