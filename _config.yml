@@ -6,8 +6,8 @@ github:
 theme: jekyll-theme-cayman
 
 header_pages:
-  - index.md
-  - about.md
+ - about.md
+ - index.md
 
 sass:
   style: compressed
