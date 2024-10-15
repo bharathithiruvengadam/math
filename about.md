@@ -4,7 +4,7 @@ title: About
 ---
 # About Me
 <p align="center">
- <img src="images" alt="mypho" width="380"/>
+ <img src="images/pho.png" alt="mypho" width="380"/>
  </p>
 <p align="center">
  Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
