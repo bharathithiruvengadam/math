@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
-# About Me
+
 <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p>
