@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Outreach Activities
+description: (As a volunteer/Tutor)
 ---
 
 # Activities 
