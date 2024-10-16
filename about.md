@@ -10,6 +10,31 @@ title: About Me
 </p>   </figcaption>
 </figure> 
 
+
+
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+
+  <!-- Image on the left side -->
+  <figure style="float: left; margin-right: 20px;">
+    <img src="https://example.com/image.jpg" alt="Description" style="width: 200px;"/>
+    <figcaption>Caption for the image.</figcaption>
+  </figure>
+
+  <!-- Text wrapping around the image -->
+  <p>
+    This is a paragraph of text that wraps around the image. You can write more content here, and the text will continue to wrap around the figure. This can be useful for adding descriptions or information next to an image.
+  </p>
+
+</div>
+
+
+
+
+
+
+
+
 <br clear="right"/>
 I am **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Tamilnadu-604201, India. 
 
