@@ -10,8 +10,8 @@ Currently, I'm pursuing PhD in the Department of Mathematics at Indian Institute
 
 <br/> 
 ### Education 
-- 2017-2019 - **Masters in Science (MSc) in Mathematics**, _Ramakrishna Mission Vivekananda College (Autonomous)_, Aﬃliated to University of Madras, Chennai, India.
-- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, _Government Arts College Tiruvannamalai_, Aﬃliated to Thiruvalluvar University, Vellore, India.
+- 2017-2019 - **Masters in Science (MSc) in Mathematics**, [_Ramakrishna Mission Vivekananda College (Autonomous)_](https://gactvm.in/), [University of Madras](https://www.unom.ac.in/), Chennai, India.
+- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, [_Government Arts College Tiruvannamalai_](https://rkmvc.ac.in/daycollege/), [Thiruvalluvar University](https://www.tvu.edu.in/),Tamilnadu, India.
 - 2012-2014 - **Higher Secondary Education (+2)**, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India.
 
 ### Awards & Achievements
