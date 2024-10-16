@@ -11,6 +11,7 @@ header_pages:
  - teaching.md
  - event.md
  - activities.md
+ - gallery.md
 
 sass:
   style: compressed
