@@ -20,7 +20,7 @@ title: About Me
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="25" height="25" />
   </a> 
  <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="23" />
 </a>
 <a href="https://maps.app.goo.gl/SC1YYwx1edXkGq2n6">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" alt="Location" width="25" height="25" />
