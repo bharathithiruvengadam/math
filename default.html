@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://github.com/Bharathi-Thiruvengadam/Homepage/blob/f13e4decda3989b8cb92c0791a1b1dc8b4d8351e/style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">Bharathi's Homepage</div>
+      <button class="menu-toggle" aria-label="Menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/">Home</a></li>
+        <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/about/">About Me</a></li>
+        <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/teaching/">Teaching</a></li>
+        <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/event/">Event</a></li>
+         <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/activities/">Activities</a></li>
+         <li><a href="https://bharathi-thiruvengadam.github.io/Homepage/gallery/">Gallery</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© 2024 Bharathi's Homepage.</p>
+  </footer>
+
+  <!-- Add a script for the menu toggle functionality -->
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
