@@ -20,8 +20,7 @@ Currently, I'm pursuing PhD in the Department of Mathematics at [Indian Institut
 - Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
 
 ### Contact
-<p allign="center"> Seat No: 40, Research Scholar cabin 03, <br/>
+Seat No: 40, Research Scholar cabin 03, <br/>
 Sangraha Building (Near Football Ground),
 <br/> Sahyadri Campus, IIT Palakkad, Kerala-678623.
-<br/> Mail Id: [212114004@smail.iitpkd.ac.in](mailto:212114004@smail.iitpkd.ac.in) 
-</p>
+<br/> Mail Id: [212114004@smail.iitpkd.ac.in](mailto:212114004@smail.iitpkd.ac.in)
