@@ -4,5 +4,10 @@ title: Outreach Activities
 description: (As a volunteer/Tutor)
 ---
 
-# Activities 
-This is the about page where I describe myself.
+# Science Quest & Crystal-2023 
+
+<figure class="image">
+  <img src="pho1.jpg" alt="pho1">
+  <figcaption>t is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. </figcaption>
+</figure>
+
