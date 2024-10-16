@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Bharathi's Homepage
-description: Success is not a destination; It is a journey... 
+description: Welcome to My Homepage!!! 
 ---
- <p align="center"> 
-_Hi... I'm Bharathi Thiruvengadam..._ <br /> <br /> Welcome to My Homepage!!!
- </p>
-<br />
+
 
  <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p>
 <p align="center">
- Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
+Bharathi Thiruvengadam <br /> Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
 </p>
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
