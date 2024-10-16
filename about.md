@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 <p align="center">
- <img src="Backpho.png" alt="Backpho" weight="25%" height="25%"/>
+ <img src="Backpho.png" alt="Backpho" weight="100" height="100"/>
  </p> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Tamilnadu-604201, India.
 
