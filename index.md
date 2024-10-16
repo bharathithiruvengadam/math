@@ -7,6 +7,6 @@ Hi... I'm Bharathi Thiruvengadam... <br /> <br /> Welcome to My Homepage!!!
  </p>
 <br />
 <p align="center">
- <img src="Backpho.png" alt="Backpho" width="700" height="600"/>
+ <img src="pho1.jpg" alt="Backpho" width="700" height="600"/>
  </p>
 
