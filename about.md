@@ -6,11 +6,11 @@ title: About Me
   <img src="Backpho.png" alt="Backpho" style="width: 40%;"/> 
   <figcaption style="text-align: center;">A beautiful image caption</figcaption>
 </figure>
-
+<p>
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
 
 Currently, I'm pursuing PhD in the Department of Mathematics at Indian Institute of Technology Palakkad, under the supervision of [Dr. Jaikrishnan Janardhanan](https://jaikrishnanj.github.io/). My principal area of research is **Several Complex Variables**.
-
+</p>
 <br/> 
 ### Education 
 - 2017-2019 - **Masters in Science (MSc) in Mathematics**, _Ramakrishna Mission Vivekananda College (Autonomous)_, Aﬃliated to University of Madras, Chennai, India.
