@@ -3,14 +3,12 @@ layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
 ---
-
-
- <p align="center">
+<p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
- </p>
+ </p> 
 <p align="center">
 Bharathi Thiruvengadam <br /> Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
-</p>
+</p> 
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
