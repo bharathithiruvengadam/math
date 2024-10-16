@@ -7,7 +7,7 @@ description: Welcome to My Homepage!!!
  <img src="pho.png" alt="mypho" width="380"/>
  </p> 
 <p align="center">
-Bharathi Thiruvengadam <br /> Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
+**Bharathi Thiruvengadam** <br /> Senior Research Fellow (PhD) <br /> Department of Mathematics <br /> Indian Institute of Technology Palakkad 
 </p> 
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
