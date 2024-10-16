@@ -4,7 +4,7 @@ title: Outreach Activities
 description: (As a volunteer/Tutor)
 ---
 
-## Science Quest & Crystal-2023 
+### Science Quest & Crystal-2023 
 
 <figure class="image">
   <img src="images/science.jpg" alt="sciencequest" width="100%" height="100%" >
