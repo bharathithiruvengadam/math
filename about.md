@@ -3,9 +3,9 @@ layout: default
 title: About Me
 ---
 
-  <figure class="image">
+<figure class="image">
  <img align="left"  src="Backpho.png" alt="Backpho" width="40%" height="40%"/>
-  <figcaption> At [Vallpaarai](https://en.wikipedia.org/wiki/Valparai), Tamilnadu </figcaption>
+  <figcaption> At [Vallpaarai](https://en.wikipedia.org/wiki/Valparai), Tamilnadu. </figcaption>
 </figure>
 
 I am **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Tamilnadu-604201, India. 
