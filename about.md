@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <figure class="image">
- <img align="left" src="Backpho.png" alt="Backpho" width="40%" height="40%"/>
+ <img align="left" src="Backpho.png" alt="Backpho" width="50%" height="50%"/>
   <figcaption> At Valparai, Tamilnadu  </figcaption>
 </figure>
 
