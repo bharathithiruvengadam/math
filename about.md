@@ -19,3 +19,8 @@ Currently, I'm pursuing PhD in the Department of Mathematics at [Indian Institut
 - Dec 2019 - Cleared **TIFR written exam**.
 - Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
 
+### Contact
+Seat No. 40, Research Scholar cabin 03, 
+Sangraha Building (Near Football Ground),
+Sahyadri Campus, IIT Palakkad, Palakkad, Kerala-678623.
+Mail Id: [212114004@smail.iitpkd.ac.in](mailto:212114004@smail.iitpkd.ac.in)
