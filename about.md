@@ -3,41 +3,23 @@ layout: default
 title: About Me
 ---
 
- <figure class="image">
- <img src="Backpho.png" alt="Backpho" width="50%" height="50%"/>
-  <figcaption> <p align="center">
- At Valparai, Tamilnadu
-</p>   </figcaption>
-</figure> 
-
-
-
-
 <div style="display: flex; align-items: center; justify-content: flex-start;">
 
 
   <figure style="float: left; margin-right: 20px;">
     <img src="Backpho.png" alt="Backpho" width="50%" height="50%"/>
-    <figcaption>Caption for the image.</figcaption>
+    <figcaption>At Valparai, Tamilnadu</figcaption>
   </figure>
 
   <p>
-    This is a paragraph of text that wraps around the image. You can write more content here, and the text will continue to wrap around the figure. This can be useful for adding descriptions or information next to an image.
+    I am **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Tamilnadu-604201, India. 
+
+Currently, I'm pursuing PhD in the Department of Mathematics at Indian Institute of Technology Palakkad, under the supervision of [**Dr. Jaikrishnan Janardhanan**](https://jaikrishnanj.github.io/). My principal area of research is **Several Complex Variables**.  
   </p>
 
 </div>
 
 
-
-
-
-
-
-
-<br clear="right"/>
-I am **Bharathi T**, where the letter T stands for **Thiruvengadam Jagathratchagan** (My father's name). My mother's name is **Sakunthala Elumalai**. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Tamilnadu-604201, India. 
-
-Currently, I'm pursuing PhD in the Department of Mathematics at Indian Institute of Technology Palakkad, under the supervision of [**Dr. Jaikrishnan Janardhanan**](https://jaikrishnanj.github.io/). My principal area of research is **Several Complex Variables**.  
 
 <br/>
 
