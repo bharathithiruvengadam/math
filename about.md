@@ -11,7 +11,7 @@ title: About Me
 </p>
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
 </a>  <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />
 </a>
