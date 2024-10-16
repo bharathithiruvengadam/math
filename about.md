@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-<figure style="float: left; margin-right: 20px; width: 200px;">
+<figure style="float: left; margin-right: 20px; width: 280px;">
   <img src="Backpho.png" alt="Backpho" style="width: 100%;"/> 
   <figcaption style="text-align: center;">A beautiful image caption</figcaption>
 </figure>
