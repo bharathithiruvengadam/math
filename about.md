@@ -15,13 +15,12 @@ title: About Me
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
 
-  <!-- Image on the left side -->
+
   <figure style="float: left; margin-right: 20px;">
-    <img src="https://example.com/image.jpg" alt="Description" style="width: 200px;"/>
+    <img src="Backpho.png" alt="Backpho" width="50%" height="50%"/>
     <figcaption>Caption for the image.</figcaption>
   </figure>
 
-  <!-- Text wrapping around the image -->
   <p>
     This is a paragraph of text that wraps around the image. You can write more content here, and the text will continue to wrap around the figure. This can be useful for adding descriptions or information next to an image.
   </p>
