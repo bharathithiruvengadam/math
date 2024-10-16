@@ -7,7 +7,7 @@ title: About Me
 
 
   <figure style="float: left; margin-right: 20px;">
-    <img src="Backpho.png" alt="Backpho" width="50%" height="50%"/>
+    <img src="Backpho.png" alt="Backpho"/>
     <figcaption>At Valparai, Tamilnadu</figcaption>
   </figure>
 
