@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Gallery
-description: A memory that shines brightly in your heart, always there to remind you...
+description: A memory that shines brightly in your heart will always remind you...
 ---
 
 
