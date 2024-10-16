@@ -4,7 +4,7 @@ title: Bharathi's Homepage
 description: Success is not a destination; It is a journey... 
 ---
  <p align="center"> 
-__Hi... I'm Bharathi Thiruvengadam...__ <br /> <br /> Welcome to My Homepage!!!
+_Hi... I'm Bharathi Thiruvengadam..._ <br /> <br /> Welcome to My Homepage!!!
  </p>
 <br />
 
