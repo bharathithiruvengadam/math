@@ -27,4 +27,4 @@ description: Welcome to My Homepage!!!
 </a>
 </p>
 
-[About Me](https://bharathi-thiruvengadam.github.io/Homepage/about)
+[About Me](https://bharathi-thiruvengadam.github.io/Homepage/about)     [Teaching](teaching.md)     [Event](event.md)     [Activities](activities.md)     [Gallery](gallery.md)
