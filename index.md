@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bharathi's Homepage
+description: Success is not a destination; It is a journey... 
 ---
  <p align="center"> 
 Hi... I'm Bharathi Thiruvengadam... <br /> <br /> Welcome to My Homepage!!!
