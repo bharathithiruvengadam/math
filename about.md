@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-<div align="center">
+<div align="left">
  <img src="Backpho.png" alt="Backpho" weight="400" height="400"/> 
  <p> At Valparai</p>
 </div>
