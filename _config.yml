@@ -5,9 +5,26 @@ github:
   is_project_page: false
 theme: jekyll-theme-cayman
 
+nav:
+  - text: "Home"
+    url: "/"
+  - text: "About Me"
+    url: "/about"  # Adjust this to your desired URL
+  - text: "Teaching"
+    url: "/teaching" 
+  - text: "Research"
+    url: "/research" 
+  - text: "Events"
+    url: "/event" 
+  - text: "Activities"
+    url: "/activitites"
+  - text: "Gallery"
+    url: "/gallery" 
+
+    
 header_pages:
+ - index.md
  - about.md
- - index.md 
  - teaching.md
  - research.md
  - event.md
