@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bharathi's Website
+title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
 ---
 
 
-<p allign="center"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp;  <a href="event">Events</a> &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
+<p allign="right"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp;  <a href="event">Events</a> &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
 
 <br/>
 <p align="center">
