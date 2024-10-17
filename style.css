@@ -13,7 +13,7 @@ nav ul li {
 nav ul li a {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007acc; /* Button color */
+  background-color: white; /* Button color */
   color: white;
   border-radius: 5px;
   text-decoration: none;
