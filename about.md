@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Bharathi's Website
-description:   About Me
-Success is not a destination, it is a journey...
+description:   About Me 
 ---
 <img src="Backpho.png" alt="Backpho" style="float: left; margin-right: 20px; width: 275px;"/> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
