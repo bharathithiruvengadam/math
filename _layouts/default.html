@@ -3,18 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bharathi's Homepage</title>
-  <link rel="stylesheet" href="style.css">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
   <header>
-    <nav>
-      <ul>
-        <li><a href="index">Home</a></li>
-        <li><a href="about">About Me</a></li>
-        <li><a href="teaching">Teaching</a></li>
-        <li><a href="research">Research</a></li>
-        <li><a href="event">Event</a></li>
+    <nav class="navbar">
+      <div class="logo">{{ site.title }}</div>
+      <button class="menu-toggle" aria-label="Menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/about/">About</a></li>
+        <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+        <li><a href="{{ site.baseurl }}/projects/">Projects</a></li>
       </ul>
     </nav>
   </header>
@@ -24,7 +25,17 @@
   </main>
 
   <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} Bharathi's Homepage</p>
+    <p>© 2024 {{ site.title }}.</p>
   </footer>
+
+  <!-- Add a script for the menu toggle functionality -->
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  </script>
 </body>
 </html>
