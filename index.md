@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
 ---
