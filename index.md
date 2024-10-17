@@ -3,7 +3,7 @@ layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
 ---
- <center><a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </center>
+ <center> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </center>
 <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p> 
