@@ -12,9 +12,9 @@ I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathrat
 
 Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, under the supervision of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables</b>
 </p>
-
-
 <br/>
+
+
 ### Education
 - 2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">Ramakrishna Mission Vivekananda College (Autonomous)</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
 - 2014-2017 - <b> Bachelors in Science (BSc) in Mathematics</b>, <a href="https://gactvm.in/">Government Arts College Tiruvannamalai</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.
