@@ -5,7 +5,8 @@ description: Welcome to My Homepage!!!
 ---
 
 
- <right> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>    </right>
+<p allign="center"> <a href="index">Home</a>  &nbsp &nbsp <a href="about">About Me</a>  &nbsp &nbsp   <a href="teaching">Teaching</a> &nbsp &nbsp <a href="research">Research</a> &nbsp &nbsp  <a href="event">Events</a> &nbsp &nbsp <a href="activities">Activities</a> &nbsp &nbsp <a href="gallery">Gallery</a>   </p>
+<br/>
 <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p> 
