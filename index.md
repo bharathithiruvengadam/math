@@ -3,7 +3,7 @@ layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
 ---
- <center><a href="about.md">About Me</a>     [Teaching](https://bharathit-math.github.io/Home/teaching)     [Research](https://bharathit-math.github.io/Home/research)     [Event](https://bharathit-math.github.io/Home/event)     [Activities](https://bharathit-math.github.io/Home/activities)     [Gallery](https://bharathit-math.github.io/Home/gallery) </center>
+ <center><a href="about">About Me</a>     [Teaching](https://bharathit-math.github.io/Home/teaching)     [Research](https://bharathit-math.github.io/Home/research)     [Event](https://bharathit-math.github.io/Home/event)     [Activities](https://bharathit-math.github.io/Home/activities)     [Gallery](https://bharathit-math.github.io/Home/gallery) </center>
 <p align="center">
  <img src="pho.png" alt="mypho" width="380"/>
  </p> 
