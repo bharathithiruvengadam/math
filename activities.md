@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Outreach Activities
 description: (As a volunteer/Tutor)
 ---
