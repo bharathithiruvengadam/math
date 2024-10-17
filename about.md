@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bharathi's Website
-description:   About Me 
+title: About Me
+description:   
 ---
 <p allign="center"> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </p>
 
@@ -9,7 +9,7 @@ description:   About Me
 <p>
 <img src="Backpho.png" alt="Backpho" style="float: left; margin-right: 20px; width: 275px;"/> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
-
+<br/>
 Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, under the supervision of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables</b>
 </p>
 <br/>
