@@ -1,44 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="https://github.com/bharathit-math/Home/blob/f13e4decda3989b8cb92c0791a1b1dc8b4d8351e/style.css">
-</head>
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharathi's Homepage</title>
+    <link rel="icon" href="https://i.ibb.co/zRsTj3p/Frame-1-37.png">
+
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" class="stylesheet">
+</head> 
+
 <body>
-  <header>
-    <nav class="navbar">
-      <div class="logo">Bharathi's Homepage</div>
-      <button class="menu-toggle" aria-label="Menu">☰</button>
-      <ul class="nav-links">
-        <li><a href="https://bharathit-math.github.io/Home/">Home</a></li>
-        <li><a href="https://bharathit-math.github.io/Home/about/">About Me</a></li>
-        <li><a href="https://bharathit-math.github.io/Home/teaching/">Teaching</a></li>
-        <li><a href="https://bharathit-math.github.io/Home/event/">Event</a></li>
-         <li><a href="https://bharathit-math.github.io/Home/activities/">Activities</a></li>
-         <li><a href="https://bharathit-math.github.io/Home/gallery/">Gallery</a></li>
-         <li><a href="https://bharathit-math.github.io/Home/research/">Research</a></li>
-      </ul>
-    </nav>
-  </header>
 
-  <main>
-    {{ content }}
-  </main>
+    <!-------------------------- Header Area -------------------------->
+    <header class="header-area">
+        <div class="container">
+            <div class="header">
+               
+                <a href="" class="logo">
+                    <img src="files/signaturecropped.png" alt="" class="signature">
+                    <i class="fa fa-bolt"></i>
+                </a>
+                   
+                <ul class="navbar">
+                    <li><a href="index">Home</a></li>
+                    <li><a href="about">About Me</a></li>
+                    <li><a href="teaching">Teaching</a></li>
+                    <li><a href="research">Research</a></li>
+                    <li><a href="event">Events</a></li>
+                </ul>
+                
+                <div class="menu_icon">
+                    <i class="fa fa-bars"></i>
+                </div>
 
-  <footer>
-    <p>© 2024 Bharathi's Homepage.</p>
-  </footer>
-
-  <!-- Add a script for the menu toggle functionality -->
-  <script>
-    const menuToggle = document.querySelector('.menu-toggle');
-    const navLinks = document.querySelector('.nav-links');
-    
-    menuToggle.addEventListener('click', () => {
-      navLinks.classList.toggle('active');
-    });
-  </script>
-</body>
-</html>
+            </div>
+        </div> 
+    </header>
