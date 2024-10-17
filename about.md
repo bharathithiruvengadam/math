@@ -10,17 +10,17 @@ description:   About Me
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
 
 Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, under the supervision of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables</b>.
-
+<b></b>
 <br/> 
 ### Education 
-- 2017-2019 - **Masters in Science (MSc) in Mathematics**, <a href="https://rkmvc.ac.in/daycollege/">_Ramakrishna Mission Vivekananda College (Autonomous)_</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
-- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, <a href="https://gactvm.in/">_Government Arts College Tiruvannamalai_</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.
-- 2012-2014 - **Higher Secondary Education (+2)**, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India.
+- 2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">_Ramakrishna Mission Vivekananda College (Autonomous)_</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
+- 2014-2017 - <b> Bachelors in Science (BSc) in Mathematics</b>, <a href="https://gactvm.in/">_Government Arts College Tiruvannamalai_</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.
+- 2012-2014 - <b>Higher Secondary Education (+2)</b>, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India.
 
 ### Awards & Achievements
-- Dec 2019 - Cleared **UGC-NET (JRF)** with AIR 153 in joint CSIR-UGC NET.  
-- Dec 2019 - Cleared **TIFR written exam**.
-- Jun 2019  - Cleared  **CSIR-NET (JRF)** with AIR 147 in joint CSIR-UGC NET. 
+- Dec 2019 - Cleared <b>UGC-NET (JRF)</b> with AIR 153 in joint CSIR-UGC NET.  
+- Dec 2019 - Cleared <b>TIFR written exam</b>.
+- Jun 2019  - Cleared  <b>CSIR-NET (JRF)</b> with AIR 147 in joint CSIR-UGC NET. 
 
 ### Contact
 Seat No: 40, Research Scholar cabin 03, <br/>
