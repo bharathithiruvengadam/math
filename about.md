@@ -1,8 +1,9 @@
 ---
 layout: default
-title: About Me
+title: Bharathi's Website
+description:   About Me
+Success is not a destination, it is a journey...
 ---
-
 <img src="Backpho.png" alt="Backpho" style="float: left; margin-right: 20px; width: 275px;"/> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
 
@@ -24,3 +25,20 @@ Seat No: 40, Research Scholar cabin 03, <br/>
 Sangraha Building (Near Football Ground),
 <br/> Sahyadri Campus, IIT Palakkad, Kerala-678623.
 <br/> Mail Id: [212114004@smail.iitpkd.ac.in](mailto:212114004@smail.iitpkd.ac.in)
+<p align="center">
+  <a href="mailto:bharathit.math@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
+</a>  
+  <a href="https://www.researchgate.net/profile/Bharathi-Thiruvengadam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="25" height="25"  />
+  </a> 
+  <a href="https://orcid.org/0009-0007-6083-3185">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID iD" width="25" height="25" />
+  </a> 
+ <a href="https://www.linkedin.com/in/bharathi-thiruvengadam/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="23" />
+</a>
+<a href="https://maps.app.goo.gl/SC1YYwx1edXkGq2n6">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" alt="Location" width="25" height="25" />
+</a>
+</p>
