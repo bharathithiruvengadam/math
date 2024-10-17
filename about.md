@@ -11,14 +11,14 @@ I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathrat
 
 Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, under the supervision of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables</b>.
 
-<br/> 
 
+<br/> 
 <div class="about-content">
-                    <h4>Education </h4>
+                    <h4> Education </h4>
                     <ul>
-                      <li>2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">_Ramakrishna Mission Vivekananda College (Autonomous)_</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.</li>
-                      <li> 2014-2017 - <b> Bachelors in Science (BSc) in Mathematics</b>, <a href="https://gactvm.in/">_Government Arts College Tiruvannamalai_</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.</li>
-                      <li> 2012-2014 - <b>Higher Secondary Education (+2)</b>, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India. </li>
+                      <li>2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">Ramakrishna Mission Vivekananda College (Autonomous)</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.</li>
+                      <li> 2014-2017 - <b> Bachelors in Science (BSc) in Mathematics</b>, <a href="https://gactvm.in/">Government Arts College Tiruvannamalai</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.</li>
+                      <li> 2012-2014 - <b>Higher Secondary Education (+2)</b>, Government Higher Secondary School (GHSS), Ethapattu, Tamilnadu, India. </li>
                     </ul>
                 </div>
 
