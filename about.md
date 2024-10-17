@@ -24,16 +24,27 @@ Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https:/
 
 
 <br/>  
-### Awards & Achievements
-- Dec 2019 - Cleared <b>UGC-NET (JRF)</b> with AIR 153 in joint CSIR-UGC NET.  
-- Dec 2019 - Cleared <b>TIFR written exam</b>.
-- Jun 2019  - Cleared  <b>CSIR-NET (JRF)</b> with AIR 147 in joint CSIR-UGC NET. 
+<div class="about-content">
+                    <h4> Awards & Achievements </h4>
+                    <ul>
+                      <li>Dec 2019 - Cleared <b>UGC-NET (JRF)</b> with AIR 153 in joint CSIR-UGC NET.</li>
+                      <li> Dec 2019 - Cleared <b>TIFR written exam</b>.</li>
+                      <li> Jun 2019  - Cleared  <b>CSIR-NET (JRF)</b> with AIR 147 in joint CSIR-UGC NET. </li>
+                    </ul>
+                </div>
 
-### Contact
-Seat No: 40, Research Scholar cabin 03, <br/>
+<br/>  
+<div class="about-content">
+                    <h4> Contact </h4>
+                    <ul>
+                     Seat No: 40, Research Scholar cabin 03, <br/>
 Sangraha Building (Near Football Ground),
 <br/> Sahyadri Campus, IIT Palakkad, Kerala-678623.
 <br/> Mail Id: <a href="mailto:212114004@smail.iitpkd.ac.in">212114004@smail.iitpkd.ac.in</a>
+                    </ul>
+                </div>
+<br/> 
+
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
