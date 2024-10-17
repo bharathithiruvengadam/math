@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bharathi's Homepage
+title: Bharathi's Website
 description: Welcome to My Homepage!!! 
 ---
  <center> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </center>
