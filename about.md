@@ -13,8 +13,8 @@ Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https:/
 
 <br/> 
 ### Education 
-- 2017-2019 - **Masters in Science (MSc) in Mathematics**, [_Ramakrishna Mission Vivekananda College (Autonomous)_](https://gactvm.in/), [University of Madras](https://www.unom.ac.in/), Chennai, India.
-- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, [_Government Arts College Tiruvannamalai_](https://rkmvc.ac.in/daycollege/), [Thiruvalluvar University](https://www.tvu.edu.in/),Tamilnadu, India.
+- 2017-2019 - **Masters in Science (MSc) in Mathematics**, <a href="https://rkmvc.ac.in/daycollege/">_Ramakrishna Mission Vivekananda College (Autonomous)_</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
+- 2014-2017 - **Bachelors in Science (BSc) in Mathematics**, <a href="https://gactvm.in/">_Government Arts College Tiruvannamalai_</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.
 - 2012-2014 - **Higher Secondary Education (+2)**, _Government Higher Secondary School (GHSS)_, Ethapattu, Tamilnadu, India.
 
 ### Awards & Achievements
@@ -26,7 +26,7 @@ Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https:/
 Seat No: 40, Research Scholar cabin 03, <br/>
 Sangraha Building (Near Football Ground),
 <br/> Sahyadri Campus, IIT Palakkad, Kerala-678623.
-<br/> Mail Id: [212114004@smail.iitpkd.ac.in](mailto:212114004@smail.iitpkd.ac.in)
+<br/> Mail Id: <a href="mailto:212114004@smail.iitpkd.ac.in">212114004@smail.iitpkd.ac.in</a>
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
