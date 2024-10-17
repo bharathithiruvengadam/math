@@ -4,6 +4,7 @@ title: Bharathi's Website
 description:   About Me 
 ---
 <center> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </center>
+<br/> 
 <p align="center">
 <img src="Backpho.png" alt="Backpho" style="float: left; margin-right: 20px; width: 275px;"/> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
