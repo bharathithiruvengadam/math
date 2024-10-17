@@ -1,11 +1,15 @@
+
+
 .menu-button {
   display: inline-block;
   padding: 10px 20px;
   font-size: 16px;
   color: white;
-  background-color: #007bff; /* Change this color as needed */
+  background-color: #007bff; /* Change to your preferred color */
   text-decoration: none;
   border-radius: 5px;
+  margin: 0 5px; /* Spacing between buttons */
+  transition: background-color 0.3s ease;
 }
 
 .menu-button:hover {
