@@ -3,7 +3,7 @@ description: "Success is not a destination, it is a journey..."
 show_downloads: false
 github:
   is_project_page: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 header_pages:
  - about.md
