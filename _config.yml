@@ -5,8 +5,7 @@ github:
   is_project_page: false
 theme: jekyll-theme-cayman
 
-
- header_pages:
+header_pages:
  - index.md
  - about.md
  - teaching.md
@@ -15,7 +14,6 @@ theme: jekyll-theme-cayman
  - activities.md
  - gallery.md
 
-
 sass:
   style: compressed
 
@@ -23,4 +21,4 @@ markdown: kramdown
 
 # Link to the custom CSS file
 assets:
-  css: "styles.css"
+  css: "style.css"
