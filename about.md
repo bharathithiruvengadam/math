@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About Me
 description: If you want to shine like a sun, first burn like a sun. - Dr. A P J Abdul Kalam 
 ---
