@@ -19,4 +19,6 @@ sass:
 
 markdown: kramdown
 
-
+# Link to the custom CSS file
+assets:
+  css: "style.css"
