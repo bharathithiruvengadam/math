@@ -22,14 +22,7 @@ nav:
     url: "/gallery" 
 
     
-header_pages:
- - index.md
- - about.md
- - teaching.md
- - research.md
- - event.md
- - activities.md
- - gallery.md
+
 
 sass:
   style: compressed
