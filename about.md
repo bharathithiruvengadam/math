@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-description:   
+description: If you want to shine like a sun, first burn like a sun.- Dr. A P J Abdul Kalam 
 ---
 <p allign="center"> <a href="index">Home</a>   <a href="about">About Me</a>     <a href="teaching">Teaching</a>  <a href="research">Research</a>   <a href="event">Events</a> <a href="activities">Activities</a> <a href="gallery">Gallery</a>   </p>
 
