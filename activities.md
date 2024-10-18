@@ -11,7 +11,7 @@ description: (As a volunteer/Tutor)
 ### Science Quest & Crystal-2023 
 
 <p>
-<img src="images/science.jpg" alt="Mathcircle" style="float: right; margin-left: 20px; width: 400px;"/> 
+<img src="images/science.jpg" alt="sciencequest" style="float: right; margin-left: 20px; width: 400px;"/> 
 It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. 
 </p>
 <br/>
@@ -19,7 +19,7 @@ It is a residential camp program conducted by IIT Palakkad. The camp's goal is t
 ### Palakkad Math Circle 
 
 <p>
-<img src="images/Mathcircle.jpg" alt="Mathcircle" style="float: left; margin-right: 20px; width: 400px;"/> 
+<img src="images/mathcircle.jpg" alt="mathcircle" style="float: left; margin-right: 20px; width: 400px;"/> 
 It is an IIT Palakkad outreach initiative program for Class 8 and 9th school students. The fundamental goal of a Math Circle session is to engage kids and teach some mathematics concepts such as Puzzles, Logic etc.
 </p>
 <br/>
