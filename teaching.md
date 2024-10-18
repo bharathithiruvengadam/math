@@ -3,7 +3,10 @@ layout: default
 title: Teaching Experience
 ---
 
+<p allign="center"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp;  <a href="event">Events</a> &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
 
+
+<br/><br/> 
 
 
 - Since Aug 2024 - Teaching Assistant (MSc, MCaM, OE-BTech), **Linear Algebra-MA5001**, _Indian Institute of Technology Palakkad_.
