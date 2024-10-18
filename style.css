@@ -1,5 +1,11 @@
 ---
 ---
+a.button {color:blue;}
+a.button:link {text-decoration: none; color: blue;}
+a.button:visited {text-decoration: none; color: blue;}
+a.button:hover {text-decoration: underline; color: blue;}
+a.button:active {text-decoration: none; color: blue;}
+
 
 @import 'jekyll-theme-cayman';
 
