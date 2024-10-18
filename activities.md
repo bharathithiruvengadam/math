@@ -20,10 +20,8 @@ fig_caption: true
 ### Palakkad Math Circle 
 
 <p>
-<img src="images/openhouse.jpg" alt="openhouse" style="float: left; margin-right: 20px; width: 400px;"/> 
-The public will have an opportunity to visit the Institute and go around the campus to explore the exciting science and technology initiatives and activities of the Institute. The Open Day will feature popular lectures, experimental demos, poster presentations, quiz contests, scientific competitions, and exhibitions that will be showcased in the various departments. 
-  <br/><br/>
-  A Group photo with Dr M Ashok Kumar (Associate Professor, Head & Dept. of Mathematics, IIT Palakkad)
+<img src="images/Mathcircle.jpg" alt="Mathcircle" style="float: right; margin-left: 20px; width: 400px;"/> 
+It is an IIT Palakkad outreach initiative program for Class 8 and 9th school students. The fundamental goal of a Math Circle session is to engage kids and teach some mathematics concepts such as Puzzles, Logic etc.
 </p>
 
 ### Open House at IIT Palakkad
