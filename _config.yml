@@ -2,7 +2,7 @@ title: Bharathi's Homepage
 description: "Success is not a destination, it is a journey..."
 show_downloads: false
 github:
-  is_project_page: false
+  is_project_page: true
 theme: jekyll-theme-minimal
 
 header_pages:
