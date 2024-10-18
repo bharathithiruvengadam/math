@@ -33,7 +33,7 @@ The public will have an opportunity to visit the Institute and go around the cam
   <br/><br/>
   A Group photo with Dr M Ashok Kumar (Associate Professor, Head & Dept. of Mathematics, IIT Palakkad)
 </p>
-
+<br/><br/><br/>
 
 <p>
 <img align="right" width="400" style="margin-left: 20px;" src="images/openhouse1.jpg" alt="openhouse1"/> 
