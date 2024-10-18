@@ -14,4 +14,12 @@ header_pages:
  - activities.md
  - gallery.md
 
+sass:
+  style: compressed
+
+markdown: kramdown
+
+# Link to the custom CSS file
+assets:
+  css: "style.css"
 
