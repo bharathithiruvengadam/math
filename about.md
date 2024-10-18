@@ -15,7 +15,7 @@ Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https:/
   <br/><br/> 
   Here is a link to my <a href="https://rkmvc.ac.in/daycollege/">CV</a>.
 </p>
-<br/><br/>
+<br/>
 
 ### Education
 - 2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">Ramakrishna Mission Vivekananda College (Autonomous)</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
