@@ -19,4 +19,4 @@ description: (As a volunteer/Tutor)
   <figcaption> It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. </figcaption>
 </figure>
 
-![A bowl of ice cream](https://example.com/image_1.jpg "This is a delicious bowl of ice cream.")
+![A bowl of ice cream](images/openhouse.jpg "This is a delicious bowl of ice cream.")
