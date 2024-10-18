@@ -6,7 +6,7 @@ description: If you want to shine like a sun, first burn like a sun. - Dr. A P J
 
 <p allign="right"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="event">Events</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p> 
 
-<br/> <br/> 
+<br/> 
 <p>
 <img src="Backpho.png" alt="Backpho" style="float: left; margin-right: 20px; width: 275px;"/> 
 I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
