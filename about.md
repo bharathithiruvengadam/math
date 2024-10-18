@@ -13,7 +13,7 @@ I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathrat
 <br/><br/>
 Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, under the supervision of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables.</b>
   <br/><br/> 
-  Here is a link to my <a href="https://rkmvc.ac.in/daycollege/">CV</a>.
+  Here is a link to my <a href="https://www.dropbox.com/scl/fi/w6foah8hch59f1js1q3jy/Curriculam-Vitae.pdf?rlkey=iby8lx6zed0qzfubglxfnla2h&st=84b79fgc&dl=0">CV</a>.
 </p>
 <br/>
 
