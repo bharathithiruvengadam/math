@@ -23,4 +23,3 @@ markdown: kramdown
 assets:
   css: "style.css"
 
-fig_caption: true
