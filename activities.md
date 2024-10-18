@@ -18,7 +18,7 @@ It is a residential camp program conducted by IIT Palakkad. The camp's goal is t
 
 ## Palakkad Math Circle 
 <p>
-<img align="right" width="350" src="images/mathcircle.jpg" alt="mathcircle"style="margin-left: 20px;"/> 
+<img align="right" width="350" style="margin-left: 20px;" src="images/mathcircle.jpg" alt="mathcircle"/> 
 It is an IIT Palakkad outreach initiative program for Class 8 and 9th school students. The fundamental goal of a Math Circle session is to engage kids and teach some mathematics concepts such as Puzzles, Logic etc.
 </p>
 <br/><br/> 
