@@ -9,7 +9,7 @@ description: (Participant as a volunteer/Tutor)
 
 ### Science Quest & Crystal-2023 
 <p>
-<img src="images/science.jpg" alt="sciencequest" style="float: right; margin-left: 20px; width: 400px;"/> 
+<img align="right" src="images/science.jpg" alt="sciencequest" width: 200;"/> 
 It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. 
 </p>
 <br/><br/> 
