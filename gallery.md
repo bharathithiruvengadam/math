@@ -5,7 +5,7 @@ description: A memory that shines brightly in your heart will always remind you.
 ---
 
 
-<p allign="center"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp;  <a href="event">Events</a> &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
+<p allign="center"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="event">Events</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
 
 
 <br/><br/> 
