@@ -23,6 +23,12 @@ fig_caption: true
 <img src="images/Mathcircle.jpg" alt="Mathcircle" style="float: right; margin-left: 20px; width: 400px;"/> 
 It is an IIT Palakkad outreach initiative program for Class 8 and 9th school students. The fundamental goal of a Math Circle session is to engage kids and teach some mathematics concepts such as Puzzles, Logic etc.
 </p>
+<br/>
+
+
+
+
+
 
 ### Open House at IIT Palakkad
 
