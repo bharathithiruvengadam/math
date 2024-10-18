@@ -10,4 +10,6 @@ title: Events
 <br/>
 
 ### Upcoming & Delivered Talks
-This is the about page where I describe myself.
+- Mar 23, 2024 - <b>Conformal Mappings Through the Lens of Invariant Metrics</b>, during Research Scholars' Day 6.0 (RSD 6.0) and nominated by the Department of Mathematics, Indian Institute of Technology Palakkad, India.
+- Nov 19, 2023 - <b>An Introduction to Chain-connected Metric Space</b>, Student Seminar Series, Indian Institute of Technology Palakkad, India. 
+- Aug 24, 2022 - <b>An Application of Montel's and Hurwitz's Theorem</b>, Departmental Seminar Series, Indian Institute of Technology Palakkad, India. 
