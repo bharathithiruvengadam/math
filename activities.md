@@ -39,7 +39,7 @@ The public will have an opportunity to visit the Institute and go around the cam
 <img align="right" width="350" style="margin-left: 20px;" src="images/openhouse1.jpg" alt="openhouse1"/> 
 A stall arrangement was given for the Department of Mathematics, and research scholars presented various problems like puzzles and logic to visitors. I had a fruitful discussion with school students about a puzzle, and it was a wonderful experience engaging with them.
 </p>
-<br/>
+<br/><br/> 
 
 
 ### Summer Training Programme in Mathematics (STP) 2024 at IIT Palakkad
