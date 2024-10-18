@@ -3,6 +3,7 @@ description: "Success is not a destination, it is a journey..."
 show_downloads: false
 github:
   is_project_page: false
+google_analytics:
 theme: jekyll-theme-cayman
 
 header_pages:
@@ -14,12 +15,5 @@ header_pages:
  - activities.md
  - gallery.md
 
-sass:
-  style: compressed
 
-markdown: kramdown
-
-# Link to the custom CSS file
-assets:
-  css: "style.css"
 
