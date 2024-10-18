@@ -23,19 +23,19 @@ description: (As a volunteer/Tutor)
 ### Open House at IIT Palakkad
 
 <p>
-<img src="images/openhouse.jpg" alt="openhouse" style="float: left; margin-right: 20px; width: 400px;"/> 
+<img src="images/openhouse.jpg" alt="openhouse" style="float: left; margin-right: 20px; width: 380px;"/> 
 The public will have an opportunity to visit the Institute and go around the campus to explore the exciting science and technology initiatives and activities of the Institute. The Open Day will feature popular lectures, experimental demos, poster presentations, quiz contests, scientific competitions, and exhibitions that will be showcased in the various departments. 
-  <br/> 
+  <br/><br/>
   A Group photo with Dr M Ashok Kumar (Associate Professor, Head & Dept. of Mathematics, IIT Palakkad)
 </p>
 <br/>
 
 <p>
-<img src="images/openhouse1.jpg" alt="openhouse1" style="float: right; margin-left: 20px; width: 400px;"/> 
+<img src="images/openhouse1.jpg" alt="openhouse1" style="float: right; margin-left: 20px; width: 380px;"/> 
 A stall arrangement was given for the Department of Mathematics, and research scholars presented various problems like puzzles and logic to visitors. I had a fruitful discussion with school students about a puzzle, and it was a wonderful experience engaging with them.
 </p>
 
-
+<br/>
 
 
 
