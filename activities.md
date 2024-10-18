@@ -23,7 +23,7 @@ description: (As a volunteer/Tutor)
 ### Open House at IIT Palakkad
 
 <p>
-<img src="images/openhouse.jpg" alt="openhouse" style="float: left; margin-right: 20px; width: 300px;"/> 
+<img src="images/openhouse.jpg" alt="openhouse" style="float: left; margin-right: 20px; width: 400px;"/> 
 The public will have an opportunity to visit the Institute and go around the campus to explore the exciting science and technology initiatives and activities of the Institute. The Open Day will feature popular lectures, experimental demos, poster presentations, quiz contests, scientific competitions, and exhibitions that will be showcased in the various departments. 
 </p>
 <br/>
