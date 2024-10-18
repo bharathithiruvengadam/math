@@ -7,7 +7,7 @@ title: Events
 
 
 
-<br/><br/> 
+<br/>
 
-# Events
+### Upcoming & Delivered Talks
 This is the about page where I describe myself.
