@@ -7,7 +7,7 @@ description: (Participant as a volunteer/Tutor)
 <p allign="right"> <a href="index">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="about">About Me</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <a href="teaching">Teaching</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="research">Research</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="event">Events</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="activities">Activities</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="gallery">Gallery</a>   </p>
 <br/><br/> 
 
-## Science Quest & Crystal-2023 
+### Science Quest & Crystal-2023 
 <p>
 <img align="left" width="350" src="images/science.jpg" alt="sciencequest" style="margin-right: 20px;"/> 
 It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. 
@@ -16,7 +16,7 @@ It is a residential camp program conducted by IIT Palakkad. The camp's goal is t
 
 
 
-## Palakkad Math Circle 
+### Palakkad Math Circle 
 <p>
 <img align="right" width="350" style="margin-left: 20px;" src="images/mathcircle.jpg" alt="mathcircle"/> 
 It is an IIT Palakkad outreach initiative program for Class 8 and 9th school students. The fundamental goal of a Math Circle session is to engage kids and teach some mathematics concepts such as Puzzles, Logic etc.
