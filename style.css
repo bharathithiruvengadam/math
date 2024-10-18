@@ -1,11 +1,33 @@
----
----
+/* Example CSS to turn menu links into buttons */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007acc; /* Button color */
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #005f99; /* Hover effect */
+}
+
+
+
 a.button {color:blue;}
 a.button:link {text-decoration: none; color: blue;}
 a.button:visited {text-decoration: none; color: blue;}
 a.button:hover {text-decoration: underline; color: blue;}
 a.button:active {text-decoration: none; color: blue;}
-
-
-@import 'jekyll-theme-cayman';
 
