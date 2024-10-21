@@ -49,7 +49,7 @@ A stall arrangement was given for the Department of Mathematics, and research sc
 <img align="left" width="400" src="images/STP.JPG" alt="STP" style="margin-right: 20px;"/> 
 The primary aim of this program is to identify young minds at the entry level of mathematics and motivate and groom them to be competent enough to solve some of the challenging problems in mathematics. This program is for students who have completed at least the second year of BSc. It is conducted by the faculty of the Department of Mathematics and sponsored by IIT Palakkad. 
   <br/><br/>
- I have had the wonderful opportunity to interact with them as their tutor. 
+ I have had the wonderful opportunity to interact with them as a tutor. 
 </p>
 
 
