@@ -37,7 +37,9 @@ The public will have an opportunity to visit the Institute and go around the cam
 
 <p>
 <img align="right" width="400" style="margin-left: 20px;" src="images/openhouse1.jpg" alt="openhouse1"/> 
-A stall arrangement was given for the Department of Mathematics, and research scholars presented various problems like puzzles and logic to visitors. I had a fruitful discussion with school students about a puzzle, and it was a wonderful experience engaging with them.
+A stall arrangement was given for the Department of Mathematics, and research scholars presented various problems like puzzles and logic to visitors.
+<br/><br/>
+  I had a fruitful discussion with school students about a puzzle, and it was a wonderful experience engaging with them.
 </p>
 <br/><br/><br/><br/><br/> 
 
@@ -45,7 +47,7 @@ A stall arrangement was given for the Department of Mathematics, and research sc
 ### Summer Training Programme in Mathematics (STP) 2024 at IIT Palakkad
 <p>
 <img align="left" width="400" src="images/STP.JPG" alt="STP" style="margin-right: 20px;"/> 
-The primary aim of this program is to identify young minds at the entry level of mathematics and motivate and groom them to be competent enough to solve some of the challenging problems in mathematics. It is for students who have completed at least the second year of BSc and is conducted by the faculty of the Department of Mathematics, sponsored by IIT Palakkad. 
+The primary aim of this program is to identify young minds at the entry level of mathematics and motivate and groom them to be competent enough to solve some of the challenging problems in mathematics. This program is for students who have completed at least the second year of BSc. It is conducted by the faculty of the Department of Mathematics and sponsored by IIT Palakkad. 
   <br/><br/>
  I have had the wonderful opportunity to interact with them as their tutor. 
 </p>
