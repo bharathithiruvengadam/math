@@ -2,7 +2,7 @@
 layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
-<a href="index"class="btn">Home</a>
+style: <a href="index"class="btn">Home</a>
 ---
 
 
