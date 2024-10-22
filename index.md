@@ -2,9 +2,9 @@
 layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!!! 
-style: <a href="index"class="btn">Home</a>
 ---
 
+<a href="about" class="btn" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">About Me</a>
 
 <p allign="center"> <span style="font-size:larger;"> <a href="index">Home</a></span> &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="about">About Me</a></span>  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-size:larger;"> <a href="teaching">Teaching</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="research">Research</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="event">Events</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="activities">Activities</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="gallery">Gallery</a></span>   </p> 
 
