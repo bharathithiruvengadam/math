@@ -4,7 +4,7 @@ title: Teaching Experience
 description: What is mathematics? It is only a systematic effort of solving puzzles posed by nature. — Shakuntala Devi
 ---
 
-<p allign="center"> <span style="font-size:larger;"> <a href="index">Home</a></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="about">About Me</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-size:larger;"> <a href="teaching">Teaching</a></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="research">Research</a></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="event">Events</a></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="activities">Activities</a></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="gallery">Gallery</a></span>   </p>
+<p allign="center"> <span style="font-size:larger;"> <a href="index">Home</a></span> &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="about">About Me</a></span>  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-size:larger;"> <a href="teaching">Teaching</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="research">Research</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="event">Events</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="activities">Activities</a></span>  &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:larger;"> <a href="gallery">Gallery</a></span>   </p>
 
 
 <br/>
