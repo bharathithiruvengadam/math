@@ -12,7 +12,7 @@ description: (Participant as a volunteer/Tutor)
 <img align="left" width="400" src="images/science.jpg" alt="sciencequest" style="margin-right: 20px;"/> 
 It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. 
 </p>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> 
 
 
 
