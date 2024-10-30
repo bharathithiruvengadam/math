@@ -11,7 +11,7 @@ description: Welcome to My Homepage!!!
  <img src="pho.png" alt="mypho" width="380"/>
  </p> 
 <p align="center">
-<b> <span style="font-size:larger;"> <a href="https://bharathit-math.github.io/Home/">Bharathi Thiruvengadam</a></span></b> <br/> Senior Research Fellow (PhD) <br/> Department of Mathematics <br/> Indian Institute of Technology Palakkad 
+<b> <span style="font-size:larger;"> <a href="https://iitpkd.ac.in/people/212114004">Bharathi Thiruvengadam</a></span></b> <br/> Senior Research Fellow (PhD) <br/> Department of Mathematics <br/> Indian Institute of Technology Palakkad 
 </p> 
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
