@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bharathi's Homepage
+navbar_title: Home
 description: Welcome to My Homepage!!! 
 ---
 
