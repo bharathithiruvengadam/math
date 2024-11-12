@@ -9,7 +9,7 @@ description: A memory that shines brightly in your heart will always remind you.
 
 <figure class="image">
   <img width="800"  src="images/professor.jpg" alt="professors">
-  <figcaption> A memorable and cherished treat by Prof. V Muruganandham, Prof. S H Kulkarni, Dr Sarath Sasi, accompanied by my esteemed colleagues Ms Deblina Das, Mr Aditya Das </figcaption>
+  <figcaption align="center"> A memorable and cherished treat by Prof. V Muruganandham, Prof. S H Kulkarni, Dr Sarath Sasi, accompanied by my esteemed colleagues Ms Deblina Das, Mr Aditya Das </figcaption>
 </figure>
 
 
