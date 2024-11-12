@@ -19,3 +19,31 @@ description: A memory that shines brightly in your heart will always remind you.
   <img width="800" src="images/kulkarni.jpg" alt="kulkarni">
   <figcaption align="center"> With <a href="https://publications.iitpkd.ac.in/researcher/s-h-kulkarni">Prof. S H Kulkarni</a> during his farewell at IIT Palakkad </figcaption>
 </figure>
+
+
+<br/>
+
+<figure class="image">
+  <img width="800" src="images/iiserpune.png" alt="iiserpune">
+  <figcaption align="center"> An interaction with SCV People in India in 2023 at IISER Pune </figcaption>
+</figure>
+
+
+
+<br/>
+
+<figure class="image">
+  <img width="800" src="images/CAM.jpg" alt="CAM">
+  <figcaption align="center"> At TIFR CAM Bengaluru, during the "Research Conference and Workshop in CR Geometry" held on Jun 2024
+ </figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
