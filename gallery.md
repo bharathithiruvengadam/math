@@ -16,6 +16,6 @@ description: A memory that shines brightly in your heart will always remind you.
 <br/>
 
 <figure class="image">
-  <img width="800" height="800" src="images/kulkarni.jpg" alt="kulkarni">
+  <img width="800" src="images/kulkarni.jpg" alt="kulkarni">
   <figcaption align="center"> With Prof. S H Kulkarni </figcaption>
 </figure>
