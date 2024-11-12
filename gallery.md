@@ -17,5 +17,5 @@ description: A memory that shines brightly in your heart will always remind you.
 
 <figure class="image">
   <img width="800" src="images/kulkarni.jpg" alt="kulkarni">
-  <figcaption align="center"> With Prof. S H Kulkarni </figcaption>
+  <figcaption align="center"> With <a href="https://publications.iitpkd.ac.in/researcher/s-h-kulkarni">Prof. S H Kulkarni</a> during his farewell at IIT Palakkad </figcaption>
 </figure>
