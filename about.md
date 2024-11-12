@@ -16,18 +16,23 @@ Currently, I'm pursuing PhD in the Department of Mathematics at <a href="https:/
   <br/><br/> 
   Here is a link to my <a href="https://drive.google.com/file/d/1HjEbykW1iO2ZzsLlMdZuOahnnfKmM024/view?usp=sharing">CV</a>.
 </p>
+
 <br/>
 
 ### Education
 - 2017-2019 - <b>Masters in Science (MSc) in Mathematics</b>, <a href="https://rkmvc.ac.in/daycollege/">Ramakrishna Mission Vivekananda College (Autonomous)</a>, <a href="https://www.unom.ac.in/">University of Madras</a>, Chennai, India.
 - 2014-2017 - <b> Bachelors in Science (BSc) in Mathematics</b>, <a href="https://gactvm.in/">Government Arts College Tiruvannamalai</a>, <a href="https://www.tvu.edu.in/">Thiruvalluvar University</a>,Tamilnadu, India.
 - 2012-2014 - <b>Higher Secondary Education (+2)</b>, Government Higher Secondary School (GHSS), Ethapattu, Tamilnadu, India. 
+
+
 <br/>
 
 ### Awards & Achievements
-- Dec 2019 - Cleared <b>UGC-NET (JRF)</b> with AIR 153 in joint CSIR-UGC NET.
+- Dec 2019 - Cleared <b>UGC-NET (JRF)</b> in joint CSIR-UGC NET.
 - Dec 2019 - Cleared <b>TIFR written exam</b>.
-- Jun 2019  - Cleared  <b>CSIR-NET (JRF)</b> with AIR 147 in joint CSIR-UGC NET.
+- Jun 2019 - Cleared <b>CSIR-NET (JRF)</b> in joint CSIR-UGC NET.
+
+
 <br/>
 
 ### Contact
