@@ -18,10 +18,10 @@ description: Seminars, Talks & Workshops
 - Participants in the workshop, <a href="https://crgeometry2024.tifrbng.res.in/">Research Workshop & Conference in CR Geometry</a> on June 24 - July 05, 2024, @ <a href="https://www.math.tifrbng.res.in/">TIFR Centre for Applicable Mathematics (CAM)</a>, Bengaluru, India.
 - Participants in the workshop, <a href="https://sites.google.com/view/iiscv2023/home">An Interactions in Several Complex Variables (SCV)</a> on December  11 - 15, 2023 @ <a href="https://www.iiserpune.ac.in/">IISER Pune</a>, Pune, India.  
 - Participants in the workshop, <a href="https://sites.google.com/ksom.res.in/scv/home">An Interactions in Several Complex Variables (SCV)</a> on December 2022 (3rd week) @ <a href="https://ksom.res.in/">Kerala School of Mathematics (KSoM)</a>,  Kozhikode, India. 
-- A Tutor in the subject of the <b>Complex Analysis</b> for the <a href="https://www.atmschools.org/school/2022/AFS-I/afs-mep-siva/speakers-and-syllabus">AFS-1 workshop</a> in December 2022 (first and second week) @ MEPCO Schlenk Engineering College, Sivakasi, India. 
+- A Tutor for the subject <b>Complex Analysis</b> in the <a href="https://www.atmschools.org/school/2022/AFS-I/afs-mep-siva/speakers-and-syllabus">AFS-1 workshop</a> held on December 2022 (first and second week) @ MEPCO Schlenk Engineering College, Sivakasi, India. 
 <br/>
 
 ### Responsibility Role
-- A coordinator for the <b>Students Seminar Series</b> in the Department of Mathematics, Indian Institute of Technology Palakkad since 2023.
+-  Since 2023, a coordinator for the <b>Students Seminar Series</b> in the Department of Mathematics, Indian Institute of Technology Palakkad, India.
 - A student coordinator for the workshop <b>Summer Training Programme in Mathematics (STP-2024)</b> in the year 2024, conducted by the faculty of the Department of Mathematics, Indian Institute of Technology Palakkad, India.
 
