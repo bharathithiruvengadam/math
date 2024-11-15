@@ -7,7 +7,7 @@ description: Welcome to My Homepage!
 
 
 
-<span style="font-size: 50px; color: yellow; font-family: 'Tangerine', Toshi Omagari; margin-left: 30px;"> <b> Hi...I'm Bharathi Thiruvengadam...</b> </span>.
+<span style="font-size: 50px; color: yellow; font-family: 'Tangerine', 'Arial', sans-serif;; margin-left: 30px;"> <b> Hi...I'm Bharathi Thiruvengadam...</b> </span>.
 
 <br/><br/><br/> <br/><br/><br/>
 
@@ -15,7 +15,7 @@ description: Welcome to My Homepage!
 <a href="index" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Home</a>  <a href="about" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">About Me</a> <a href="teaching" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Teaching</a>  <a href="research" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Research</a>  <a href="event" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Events</a>  <a href="activities" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Activities</a> <a href="gallery" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Gallery</a>
 
 <br/>
-<p style="margin-top: 320px; text-size: larger"> </p>
+<p style="margin-top: 300px; text-size: larger"> </p>
 
 <style>
 body {
