@@ -43,7 +43,7 @@ description: A memory that shines brightly in your heart will always remind you.
 
 <style>
     .page-header {
-        height: 150px; /* Example height */
+        height: 150px;
         padding: 10px;
     }
 </style>
