@@ -7,7 +7,7 @@ description:
 
 <p style="margin-top: 250px; text-size: larger"> </p>
 
-<span style="font-size: 50px; color: yellow; font-family: 'Tangerine', Toshi Omagari; margin-left: 30px;"> Hi...I'm Bharathi Thiruvengadam...</span>.
+<span style="font-size: 50px; color: yellow; font-family: 'Tangerine', Toshi Omagari; margin-left: 30px;"> <b Hi...I'm Bharathi Thiruvengadam...</b></span>.
 
 <br/><br/><br/>
 
