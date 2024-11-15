@@ -23,16 +23,7 @@ nav ul li a:hover {
   background-color: #005f99; /* Hover effect */
 }
 
-.banner {
-    height: 100px; /* Adjust the height as needed */
-    padding: 10px 0; /* Reduce padding to shrink the banner */
-    background-size: cover; /* Ensure the background adjusts properly */
-}
 
-.banner h1, .banner p {
-    font-size: 1.5em; /* Adjust font size of the banner text */
-    margin: 5px 0; /* Adjust spacing between elements */
-}
 
 
 a.button {color:blue;}
