@@ -21,11 +21,6 @@ body {
 
 
 
-
-<br/>
-<p align="center">
- <img src="Backpho.png" alt="mypho" width="100%"/>
- </p> 
 <p align="center">
 <b> <span style="font-size:larger;"> <a href="https://iitpkd.ac.in/people/212114004">Bharathi Thiruvengadam</a></span></b> <br/> Senior Research Fellow (PhD) <br/> Department of Mathematics <br/> Indian Institute of Technology Palakkad 
 </p> 
