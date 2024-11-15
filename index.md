@@ -27,4 +27,12 @@ body {
 }
 </style>
 
-
+<style>
+    .banner {
+        height: 150px; /* Adjust to your desired size */
+        padding: 5px 0;
+    }
+    .banner h1 {
+        font-size: 1.2em;
+    }
+</style>
