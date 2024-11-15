@@ -60,3 +60,9 @@ Seat No: 40, Research Scholar cabin 03,
 </a>
 </p>
 
+<style>
+    .page-header {
+        height: 150px; /* Example height */
+        padding: 10px;
+    }
+</style>
