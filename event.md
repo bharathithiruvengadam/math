@@ -24,3 +24,14 @@ description: Seminars, Talks & Workshops
 ### Responsibility Role
 - A student coordinator for the workshop <b>Summer Training Programme in Mathematics (STP-2024)</b> in the year 2024, conducted by the faculty of the Department of Mathematics, Indian Institute of Technology Palakkad, India.
 -  Since 2023, a coordinator for the <b>Students Seminar Series</b> in the Department of Mathematics, Indian Institute of Technology Palakkad, India.
+
+<br/>
+
+<style>
+    .page-header {
+        height: 150px; /* Example height */
+        padding: 10px;
+    }
+</style>
+
+
