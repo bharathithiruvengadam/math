@@ -19,3 +19,14 @@ description: What is mathematics? It is only a systematic effort of solving puzz
 - Oct 2022-Feb 2023 - Teaching Assistant (BTech), **Linear Algebra and Series-MA1011**, _Indian Institute of Technology Palakkad_.
 - Mar-Jun 2022 - Teaching Assistant (BTech), **Multivariable Calculus-MA1021**, _Indian Institute of Technology Palakkad_.
 
+
+
+
+<br/>
+
+<style>
+    .page-header {
+        height: 150px; /* Example height */
+        padding: 10px;
+    }
+</style>
