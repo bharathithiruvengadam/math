@@ -6,6 +6,22 @@ description: Welcome to My Homepage!!!
 
 <a href="index" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Home</a>  <a href="about" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">About Me</a> <a href="teaching" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Teaching</a>  <a href="research" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Research</a>  <a href="event" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Events</a>  <a href="activities" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Activities</a> <a href="gallery" class="btn" style="display: inline-block; padding: 5px 10px; background-color: #157878; color: white; text-decoration: none; border-radius: 3px;">Gallery</a>
 
+
+
+
+<style>
+body {
+    background-image: url(Backpho.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+</style>
+
+
+
+
 <br/>
 <p align="center">
  <img src="Backpho.png" alt="mypho" width="100%"/>
