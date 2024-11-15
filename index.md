@@ -7,7 +7,7 @@ description:
 
 <p style="margin-top: 320px; text-size: larger"> </p>
 
-<span style="font-size: 50px; color: purple; font-family: 'Calligraphy', Tangerine; margin-left: 30px;"> Hi...I'm Bharathi Thiruvengadam...</span>.
+<span style="font-size: 50px; color: purple; font-family: 'Tangerine', Toshi Omagari; margin-left: 30px;"> Hi...I'm Bharathi Thiruvengadam...</span>.
 
 <br/><br/><br/>
 
