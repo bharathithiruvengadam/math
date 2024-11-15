@@ -43,3 +43,13 @@ Yet to update...
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" alt="Location" width="25" height="25" />
 </a>
 </p>
+
+
+<br/>
+
+<style>
+    .page-header {
+        height: 150px; /* Example height */
+        padding: 10px;
+    }
+</style>
