@@ -11,7 +11,7 @@ description: Welcome to My Homepage!!!
 
 <style>
 body {
-    background-image: URL('Backpho.png');
+    background-image: URL('https://github.com/bharathit-math/Home/blob/c58f63d88f288949ea0c91a0265111cece737793/Backpho.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
