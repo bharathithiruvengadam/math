@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Hi...I'm Bharathi Thiruvengadam...
 description: Welcome to My Homepage!
 ---
