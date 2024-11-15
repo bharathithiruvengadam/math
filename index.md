@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bharathi's Homepage
-description: 
+description: Welcome to My Homepage!
 ---
 
 
