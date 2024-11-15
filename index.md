@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Hi...I'm Bharathi Thiruvengadam...
-description: Welcome to My Homepage!
-class: homepage
+title: Bharathi's Homepage
 ---
 
 <p style="margin-top: 400px;"></p>
