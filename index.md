@@ -5,7 +5,7 @@ title: Bharathi's Homepage
 
 
 
-<span style="font-size: 60px; color: red; font-family: 'Courier New', monospace;"> Hi...I'm Bharathi Thiruvengadam...</span>.
+<span style="font-size: 50px; color: red; font-family: 'Tangerine';"> Hi...I'm Bharathi Thiruvengadam...</span>.
 
 
 <p style="margin-top: 400px; text-size: larger"> </p>
