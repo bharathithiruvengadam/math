@@ -31,3 +31,8 @@ a.button:visited {text-decoration: none; color: blue;}
 a.button:hover {text-decoration: underline; color: blue;}
 a.button:active {text-decoration: none; color: blue;}
 
+
+
+header {
+  display: none;
+}
