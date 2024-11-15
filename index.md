@@ -23,11 +23,9 @@ body {
 }
 </style>
 
+<br/><br/>
 
 
-<p align="center">
-<b> <span style="font-size:larger;"> <a href="https://iitpkd.ac.in/people/212114004">Bharathi Thiruvengadam</a></span></b> <br/> Senior Research Fellow (PhD) <br/> Department of Mathematics <br/> Indian Institute of Technology Palakkad 
-</p> 
 <p align="center">
   <a href="mailto:bharathit.math@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" width="25" height="25" />
