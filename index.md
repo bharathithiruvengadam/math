@@ -26,3 +26,9 @@ body {
     background-position: center below;
 }
 </style>
+<style>
+    .page-header {
+        height: 150px; /* Example height */
+        padding: 10px;
+    }
+</style>
