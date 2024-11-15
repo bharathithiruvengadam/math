@@ -18,7 +18,10 @@ sass:
   style: compressed
 
 markdown: kramdown
+plugins:
+    - jekyll-sass-converter
 
+    
 # Link to the custom CSS file
 assets:
   css: "style.css"
