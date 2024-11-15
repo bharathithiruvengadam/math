@@ -56,7 +56,7 @@ The primary aim of this program is to identify young minds at the entry level of
 
 <style>
     .page-header {
-        height: 150px; /* Example height */
+        height: 150px; 
         padding: 10px;
     }
 </style>
