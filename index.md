@@ -7,7 +7,7 @@ description: Welcome to My Homepage!
 
 <br/><br/><br/><br/>
 
-<span style="font-size: 50px; color: #c64233; font-family: 'Dancing Script', cursive;"> <b> Hi...I'm Bharathi Thiruvengadam...</b> </span>.
+<span style="font-size: 45px; color: #c64233; font-family: 'Dancing Script', cursive;"> <b> Hi...I'm Bharathi Thiruvengadam...</b> </span>.
 
 <br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
