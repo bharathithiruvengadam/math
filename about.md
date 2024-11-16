@@ -10,7 +10,7 @@ description: If you want to shine like a sun, first burn like a sun. - Dr. A P J
 <br/> 
 <p>
 <img align="left" width="375" src="pho.png" alt="Backpho" style="margin-right: 20px;"/> 
-I am <b>Bharathi T</b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
+I am <b>Bharathi T (பாரதி தி) </b>, where the letter T stands for <b>Thiruvengadam Jagathratchagan</b> (My father's name). My mother's name is <b>Sakunthala Elumalai</b>. I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
 <br/><br/>
 I am a Senior Research Fellow (PhD) in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, working under the guidance of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. My principal area of research is <b>Several Complex Variables.</b>
   <br/><br/> 
