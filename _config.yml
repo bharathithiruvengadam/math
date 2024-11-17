@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
 
 header_pages:
  - index.md
- - about.md
+ - aboutme.md
  - teaching.md
  - research.md
  - event.md
