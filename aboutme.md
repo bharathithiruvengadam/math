@@ -14,8 +14,7 @@ I am <b>Bharathi T (பாரதி தி)</b>, where the letter T stands for <
   I am from Tamilnadu and belong to a rural area in Melmalaiyanur Taluk, Villupuram-604201, India. 
 <br/><br/>
 I am a Senior Research Fellow (PhD) in the Department of Mathematics at <a href="https://iitpkd.ac.in/">Indian Institute of Technology Palakkad</a>, working under the guidance of <a href="https://jaikrishnanj.github.io/"><b>Dr. Jaikrishnan Janardhanan</b></a>. 
-  <br/><br/>
-  My principal area of research is <b>Several Complex Variables.</b>
+  
   <br/><br/> 
   Here is a link to my <a href="https://drive.google.com/file/d/1HjEbykW1iO2ZzsLlMdZuOahnnfKmM024/view?usp=sharing">CV</a>.
 </p>
