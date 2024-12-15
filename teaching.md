@@ -10,7 +10,7 @@ description: What is mathematics? It is only a systematic effort of solving puzz
 <br/><br/>
 
 
-- Since Aug 2024 - Teaching Assistant (MSc, MCaM, OE-BTech), **Linear Algebra-MA5001**, _Indian Institute of Technology Palakkad_.
+- Aug - Dec 2024 - Teaching Assistant (MSc, MCaM, OE-BTech), **Linear Algebra-MA5001**, _Indian Institute of Technology Palakkad_.
 - Jun 2024 - A Tutor in the IIT Palakkad residential workshop [Summer Training Programme in Mathematics (STP-2024)](https://sites.google.com/iitpkd.ac.in/stpmathiitpkd/home), _Indian Institute of Technology Palakkad_.
 - Jan- Apr 2024 - Teaching Assistant (MSc), **Complex Analysis-MA5010**, _Indian Institute of Technology Palakkad_. 
 - Aug-Dec 2023 - Teaching Assistant (BTech), **Differential Equations-MA2020**, _Indian Institute of Technology Palakkad_. 
