@@ -1,10 +1,11 @@
 title: Bharathi's Homepage 
+email: bharathit.math@gmail.com
 description: "Success is not a destination, it is a journey..."
 show_downloads: false
 github:
   is_project_page: false
 theme: jekyll-theme-cayman 
-
+github_username:   bharathit.math
 
 header_pages:
  - index.md
