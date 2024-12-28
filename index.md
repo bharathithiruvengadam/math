@@ -2,9 +2,6 @@
 layout: default
 title: Bharathi's Homepage
 description: Welcome to My Homepage!
-button:
-        text: Download CV
-        url: https://github.com/Bharathi-Math/home/blob/183649e1dff321a5a9f321464f06238b02723381/index.md
 ---
 
 
