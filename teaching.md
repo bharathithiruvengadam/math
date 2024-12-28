@@ -9,7 +9,7 @@ description: What is mathematics? It is only a systematic effort of solving puzz
 
 <br/><br/>
 
-- Since Jan 2025 - Teaching Assistant for NPTEL Course **Real Analysis - 1** under the instructor **Dr Jaikrishnan Janardhanan**. 
+- Since Jan 2025 - Teaching Assistant for NPTEL Course **Real Analysis - 1**. Instructor: **Dr Jaikrishnan Janardhanan** 
 - Aug - Dec 2024 - Teaching Assistant, **Linear Algebra-MA5001** (MSc, MCaM, OE-BTech), Indian Institute of Technology Palakkad.
 - Jun 2024 - A Tutor in the IIT Palakkad residential workshop [Summer Training Programme in Mathematics (STP-2024)](https://sites.google.com/iitpkd.ac.in/stpmathiitpkd/home), Indian Institute of Technology Palakkad.
 - Jan - Apr 2024 - Teaching Assistant, **Complex Analysis-MA5010** (MSc), Indian Institute of Technology Palakkad. 
