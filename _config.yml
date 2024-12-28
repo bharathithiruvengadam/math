@@ -4,7 +4,6 @@ show_downloads: false
 github:
   is_project_page: false
 theme: jekyll-theme-cayman 
-github_username:   bharathit.math
 button:
         text: Download CV
         url: index
