@@ -18,6 +18,7 @@ description: Seminars, Talks & Workshops
 <br/>
 
 ### Workshops & Conferences (Attended) 
+- Participants in the workshop <a href="https://icsamy.iiti.ac.in/"> International Conference on Special Functions, Analytic Functions, Metric and Quasiconformality (ICSAMY 2024) </a> on Dec 2024, @ <a href="https://www.iiti.ac.in/"> Indian Institute of Technology Indore</a>, Indore, India.
 - Participants in the workshop, <a href="https://crgeometry2024.tifrbng.res.in/">Research Workshop & Conference in CR Geometry</a> on June 24 - July 05, 2024, @ <a href="https://www.math.tifrbng.res.in/">TIFR Centre for Applicable Mathematics (CAM)</a>, Bengaluru, India.
 - Participants in the workshop, <a href="https://sites.google.com/view/iiscv2023/home">An Interactions in Several Complex Variables (SCV)</a> on December  11 - 15, 2023 @ <a href="https://www.iiserpune.ac.in/">IISER Pune</a>, Pune, India.  
 - Participants in the workshop, <a href="https://sites.google.com/ksom.res.in/scv/home">An Interactions in Several Complex Variables (SCV)</a> on December 2022 (3rd week) @ <a href="https://ksom.res.in/">Kerala School of Mathematics (KSoM)</a>,  Kozhikode, India. 
