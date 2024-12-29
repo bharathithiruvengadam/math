@@ -7,7 +7,7 @@ description: Welcome to My Homepage!
 
 <br/><br/><br/><br/>
 <div style="text-align: right; font-family: 'Courier New', monospace; font-size: 14px; color: blue;">
-This text will appear on the right side of the page with a custom font style.
+Hi... I'm Bharathi Thiruvengadam 
 </div>
 
 
