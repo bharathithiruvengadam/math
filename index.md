@@ -6,8 +6,12 @@ description: Welcome to My Homepage!
 
 
 <br/><br/><br/><br/>
+<div style="text-align: right; font-family: 'Courier New', monospace; font-size: 14px; color: blue;">
+This text will appear on the right side of the page with a custom font style.
+</div>
 
 
+<br/><br/><br/><br/>
 <span style="font-size: 40px; margin-right: 20px; color: white;  font-family: 'Dancing Script', cursive; "> <b> Hi... I'm Bharathi Thiruvengadam (பாரதி திருவேங்கடம்)...</b> </span>
 
 <br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/>
