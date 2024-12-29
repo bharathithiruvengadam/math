@@ -11,9 +11,6 @@ description: Welcome to My Homepage!
 </div>
 
 
-<br/><br/><br/><br/>
-<span style="font-size: 40px; margin-right: 20px; color: white;  font-family: 'Dancing Script', cursive; "> <b> Hi... I'm Bharathi Thiruvengadam (பாரதி திருவேங்கடம்)...</b> </span>
-
 <br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
