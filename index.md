@@ -7,7 +7,14 @@ description: Welcome to My Homepage!
 
 <br/><br/><br/><br/>
 
-<span style="font-size: 40px; color: white;  style: margin-right: 20px; font-family: 'Dancing Script', cursive; "> <b> Hi... I'm Bharathi Thiruvengadam (பாரதி திருவேங்கடம்)...</b> </span>
+<p>
+<img align="left" width="500" src="images/science.jpg" alt="sciencequest" style="margin-right: 20px;"/> 
+It is a residential camp program conducted by IIT Palakkad. The camp's goal is to instil in students a spirit of inquiry, critical thinking, and love for science and mathematics. 
+</p>
+<br/><br/><br/><br/><br/><br/> 
+
+
+<span style="font-size: 40px, margin-right: 20px; color: white;  font-family: 'Dancing Script', cursive; "> <b> Hi... I'm Bharathi Thiruvengadam (பாரதி திருவேங்கடம்)...</b> </span>
 
 <br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/>
 
