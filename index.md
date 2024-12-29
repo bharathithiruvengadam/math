@@ -6,7 +6,7 @@ description: Welcome to My Homepage!
 
 
 <br/><br/><br/><br/>
-<div style="text-align: right; font-family: 'Courier New', monospace; font-size: 40px; color: blue;">
+<div style="text-align: right; font-family: 'Dancing Script', cursive; font-size: 40px; color: #157878;">
  <b> Hi... I'm Bharathi Thiruvengadam <br/> (பாரதி திருவேங்கடம்)...</b>
 </div>
 
