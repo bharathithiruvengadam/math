@@ -25,7 +25,12 @@ nav ul li a:hover {
 }
 
 
-font-size: 10px;
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+  line-height: 1.5;
+}
 
 a.button {color:blue;}
 a.button:link {text-decoration: none; color: blue;}
