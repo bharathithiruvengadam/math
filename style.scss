@@ -1,5 +1,10 @@
 /* Example CSS to turn menu links into buttons */
- 
+
+body {
+  ...
+  font: 10px/1.4 $helvetica;
+}
+
 nav ul {
   list-style-type: none;
   padding: 0;
