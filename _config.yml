@@ -25,5 +25,5 @@ plugins:
     
 # Link to the custom CSS file
 assets:
-  css: "style.css"
+  css: "style.scss"
 
