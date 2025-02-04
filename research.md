@@ -16,12 +16,12 @@ description: What is mathematics? It is only a systematic effort of solving puzz
 <br/>
 
 
-### Research Publications
+# Research Publications
 
-#### Published / Accepted
+### Published / Accepted
 Not yet. 
 
-#### Preprint / Submitted
+### Preprint / Submitted
 
 - (With Jaikrishnan J), **Conformal Mappings Through the Lens of Invariant Metrics**, [https://doi.org/10.48550/arXiv.2502.00650](https://doi.org/10.48550/arXiv.2502.00650).
 
