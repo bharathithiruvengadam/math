@@ -8,7 +8,8 @@ description: What is mathematics? It is only a systematic effort of solving puzz
 
 <br/> 
 
-<u>## Research Interests</u>
+## Research Interests
+
 - One & Several Complex Variables (SCV)
 - Riemann Surfaces
 - Complex Manifolds
